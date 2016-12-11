@@ -14,11 +14,11 @@
 
 ## Screenshots
 
-![Alt text](/screenshots/screenshot1.png?raw=true)
-![Alt text](/screenshots/screenshot2.png?raw=true)
-![Alt text](/screenshots/screenshot3.png?raw=true)
-![Alt text](/screenshots/screenshot4.png?raw=true)
-![Alt text](/screenshots/screenshot5.png?raw=true)
+![Alt text](/screenshots/screenshot1.jpeg?raw=true)
+![Alt text](/screenshots/screenshot2.jpeg?raw=true)
+![Alt text](/screenshots/screenshot3.jpeg?raw=true)
+![Alt text](/screenshots/screenshot4.jpeg?raw=true)
+![Alt text](/screenshots/screenshot5.jpeg?raw=true)
 
 ## Usage
 
